@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on Tao Player
+- 🔭 I’m currently working on `Tao Player`
 - 🌱 I’m currently learning C#
 - 💬 Ask me about how write bots
 - 😄 Pronouns: He/His
