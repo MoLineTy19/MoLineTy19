@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on `Tao Player`
-- 🌱 I’m currently learning C#
+- 🔭 I’m currently working on `AniCharm`
+- 🌱 I’m currently learning JS
 - 💬 Ask me about how write bots
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: A person sneezes at speeds of up to 160 km/h.
