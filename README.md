@@ -8,7 +8,6 @@
         <h2>
             𝓐𝓫𝓸𝓾𝓽 𝓶𝓮
         </h2>
-        <hr>
             <img src="https://github.com/MoLineTy19/MoLineTy19/blob/main/assets/hu-tao.jpg?raw=true" width="15%" align="right" style="transform: scaleX(-1);">
             <div style="text-align: left;">
                 <li>
@@ -35,7 +34,6 @@
         <h2>
             𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮
         </h2>
-        <hr>
         <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
         <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
         <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
@@ -50,7 +48,6 @@
         <h2>
          𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓜𝓮
         </h2>
-        <hr>
         <a href="https://t.me/im_so_good"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
     </div>
 </body>
